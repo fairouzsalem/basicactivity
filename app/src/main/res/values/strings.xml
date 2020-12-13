@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">basic activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
